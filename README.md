@@ -53,6 +53,6 @@ This project provides a detailed approach to analyzing e-commerce data, offering
 
 ## Author
 
-Akhila V Raichur - akhilaraichur@gmail.com
+Aishwarya S Patil - aishapatil14542@gmail.com
 
 ---
